@@ -3,9 +3,7 @@
 I build data pipelines, automation and AI tooling, with a focus on making them **correct,
 re-runnable and safe when things go wrong**.
 
-<!-- Add your LinkedIn link here, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/your-handle/)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/raza-naazer-82aba0171/)
 
 ## Portfolio
 
